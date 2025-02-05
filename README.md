@@ -74,7 +74,7 @@ Contributions are welcome! If you'd like to contribute, please follow these step
 4. Push your branch to your forked repository.
 5. Submit a pull request.
 ## Blueprint 
-This is a semple Blueprint if you want to see the .[Blueprint](Blueprint)
+This is a semple Blueprint if you want to see the .[Blueprint](Blueprint.md)
 ## License
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
