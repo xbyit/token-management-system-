@@ -3,6 +3,7 @@
 # Token Management System
 
 A Flask-based web application for generating and validating tokens with expiration dates. This project allows users to generate unique tokens that expire after a specified number of days and check the validity of existing tokens.
+'''
 
 ## Features
 - **Token Generation**: Generate a unique token with a customizable expiration period (in days).
@@ -79,16 +80,8 @@ This is a semple Blueprint if you want to see the .[Blueprint](Blueprint.md)
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
 ## Author
-- **xghostxdz** - [GitHub Profile](https://github.com/xghostxdz)
+- **xghostxdz** - [GitHub Profile](https://github.com/xbyit)
 
 ## Acknowledgments
 - Flask documentation for providing a great framework to build web applications.
 - Python community for continuous support and resources.
-```
-
-### How to Use the README
-1. Save the above content in a file named `README.md` in the root directory of your project.
-2. Push the changes to your GitHub repository.
-3. The README will be displayed on your GitHub repository page, providing a clear overview of your project.
-
-Let me know if you need further assistance! 🚀
